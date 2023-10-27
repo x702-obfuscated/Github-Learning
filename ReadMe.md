@@ -20,3 +20,6 @@ git stash -u (saves all changes without commiting them)
 
 
 git merge <branch> 
+
+fork --> clone to local --> make changes --> git push origin <branch>  --> pull request 
+pull request pulls in remote changes and merges with master branch
